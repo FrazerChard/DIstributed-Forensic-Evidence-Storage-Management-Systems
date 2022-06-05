@@ -1,4 +1,4 @@
-# DIstributed-Forensic-Evidence-Storage-Management-Systems
+# Distributed-Forensic-Evidence-Storage-Management-Systems
 
 This work explores the major distributed technologies that could help to secure digital forensics evidence systems due to issues seen with current storage methods for this type of data. 
 It explores various distributed ledger technologies, including the blockchain, the Arweave blockweave and the Hedera hashgraph, as well as distributed storage methods and secure proofs. 
